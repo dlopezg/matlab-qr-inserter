@@ -1,0 +1,5 @@
+output/*.png
+output/*.jpg
+
+img/qrfiles/*.png
+img/qrfiles/*.jpg
